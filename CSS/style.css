@@ -197,7 +197,7 @@ header nav .burger-icon span:nth-child(2) {
 /* Start Landing */
 .landing {
     color: var(--secondary-text-color);
-    background-image: url(/assets/pexels-puspa-chaulagai-7382091.jpg);
+    background-image: url("../assets/pexels-puspa-chaulagai-7382091.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -436,7 +436,7 @@ header nav .burger-icon span:nth-child(2) {
     margin-bottom: 100px;
     height: 500px;
     position: relative;
-    background-image: url(/assets/pexels-anni-roenkae-2156881.jpg);
+    background-image: url("../assets/pexels-anni-roenkae-2156881.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -497,7 +497,7 @@ header nav .burger-icon span:nth-child(2) {
 .design .image {
     width: 500px;
     height: 500px;
-    background-image: url(/assets/—Pngtree—mobile\ phone\ mockup\ transparent\ background_5757569.png);
+    background-image: url("../assets/mobiles1.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -663,6 +663,7 @@ header nav .burger-icon span:nth-child(2) {
 /* Start video */
 
 .video video {
+    width: 100%;
     max-width: 100%;
 }
 
@@ -745,7 +746,7 @@ header nav .burger-icon span:nth-child(2) {
     margin-top: 60px;
     width: 450px;
     height: 450px;
-    background-image: url(/assets/iphone.png);
+    background-image: url("../assets/iphone.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -765,7 +766,7 @@ header nav .burger-icon span:nth-child(2) {
 .stats {
     padding-top: 100px;
     padding-bottom: 100px;
-    background-image: url(/assets/mountains-g7c52bd8c0_1920.jpg);
+    background-image: url("../assets/mountains-g7c52bd8c0_1920.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1037,7 +1038,7 @@ header nav .burger-icon span:nth-child(2) {
 }
 
 .design-2 .image .img {
-    background-image: url(/assets/pexels-david-besh-884788.jpg);
+    background-image: url("../assets/pexels-david-besh-884788.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1246,7 +1247,7 @@ header nav .burger-icon span:nth-child(2) {
 }
 
 .subscribe .container {
-    background-image: url(/assets/pexels-mikechie-esparagoza-1742370.jpg);
+    background-image: url("../assets/pexels-mikechie-esparagoza-1742370.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1478,7 +1479,7 @@ header nav .burger-icon span:nth-child(2) {
 
 /* Start footer */
 footer {
-    background-image: url(/assets/pexels-irina-iriser-1005711.jpg);
+    background-image: url("../assets/pexels-irina-iriser-1005711.jpg");
     height: 350px;
     display: flex;
     flex-direction: column;
